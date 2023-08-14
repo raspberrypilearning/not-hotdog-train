@@ -1,3 +1,7 @@
+### 'Not Hotdog' training images
+
+Drag and drop these images into the `hotdog` class in your machine learning model:
+
 ![not a picture of a hotdog](images/301.jpg)
 ![not a picture of a hotdog](images/302.jpg)
 ![not a picture of a hotdog](images/303.jpg)
